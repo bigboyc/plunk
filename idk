@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+<script>
+  alert( "im javascript!" );
+  </srcipt>
+  
+  </body>
+  
+  </html>
